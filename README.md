@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Blaq-boy/SKYPER-MD">
-    <img alt="SKYPER-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
+    <img alt="SKYPER-MD docs" height="350" src="https://files.catbox.moe/jjfzc7.jpg">
   </a>
 </p>
     
